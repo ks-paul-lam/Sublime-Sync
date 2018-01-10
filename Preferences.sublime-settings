@@ -1,6 +1,7 @@
 {
 	"color_scheme": "Packages/User/SublimeLinter/Monokai Pro (Filter Octagon) (SL).tmTheme",
 	"draw_white_space": "all",
+	"font_size": 32,
 	"ignored_packages":
 	[
 		"Vintage"
