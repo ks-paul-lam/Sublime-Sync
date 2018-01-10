@@ -1,0 +1,10 @@
+# Ignore everything...
+*
+# ... except preferences
+!.gitignore
+!Preferences.sublime-settings
+<<<<<<< HEAD
+!Package Control.sublime-settings
+=======
+!Package Control.sublime-settings
+>>>>>>> added: settings and packages
