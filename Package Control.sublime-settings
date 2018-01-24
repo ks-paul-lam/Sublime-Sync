@@ -5,10 +5,10 @@
 	],
 	"installed_packages":
 	[
+		"Boxy Theme",
 		"Package Control",
 		"SublimeLinter",
 		"SublimeLinter-cppcheck",
-		"Text Pastry",
-		"Theme - Monokai Pro"
+		"Text Pastry"
 	]
 }
