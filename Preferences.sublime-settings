@@ -1,7 +1,6 @@
 {
 	"color_scheme": "Packages/User/SublimeLinter/Monokai Pro (Filter Ristretto) (SL).tmTheme",
 	"draw_white_space": "all",
-	"trim_trailing_white_space_on_save": true,
 	"font_face": "Fira Code",
 	"font_options":
 	[
@@ -29,5 +28,6 @@
 	"theme_tab_close_always_visible": true,
 	"theme_tab_selected_overlined": true,
 	"theme_tab_size_md": true,
-	"translate_tabs_to_spaces": true
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
 }
