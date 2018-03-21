@@ -1,6 +1,6 @@
 {
 	"color_scheme": "Packages/User/SublimeLinter/Monokai Pro (Filter Ristretto) (SL).tmTheme",
-	"draw_white_space": "all",
+	"draw_white_space": "selection",
 	"font_face": "Fira Code",
 	"font_options":
 	[
