@@ -6,13 +6,21 @@
 	"installed_packages":
 	[
 		"A File Icon",
+		"Anaconda",
 		"Boxy Theme",
 		"Boxy Theme Addon - Font Face",
 		"BracketHighlighter",
+		"EasyClangComplete",
+		"ExportHtml",
+		"HTML-CSS-JS Prettify",
+		"HTML5",
 		"Package Control",
+		"SideBarEnhancements",
 		"SublimeAStyleFormatter",
+		"SublimeGDB",
 		"SublimeLinter",
 		"SublimeLinter-cppcheck",
+		"SublimeLinter-php",
 		"Text Pastry"
 	]
 }

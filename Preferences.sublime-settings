@@ -1,15 +1,25 @@
 {
 	"color_scheme": "Packages/User/SublimeLinter/Monokai Pro (Filter Ristretto) (SL).tmTheme",
+	"drag_text": false,
+	"draw_minimap_border": true,
 	"draw_white_space": "selection",
 	"font_face": "Fira Code",
 	"font_options":
 	[
-		""
+		"ss02",
+		"ss03"
 	],
 	"ignored_packages":
 	[
 		"Vintage"
 	],
+	"match_brackets": false,
+	"match_brackets_angle": false,
+	"match_brackets_braces": false,
+	"match_brackets_content": false,
+	"match_brackets_square": false,
+	"match_tags": false,
+	"spell_check": true,
 	"theme": "Boxy Monokai.sublime-theme",
 	"theme_accent_tangerine": true,
 	"theme_autocomplete_item_selected_colored": true,
@@ -29,5 +39,6 @@
 	"theme_tab_selected_overlined": true,
 	"theme_tab_size_md": true,
 	"translate_tabs_to_spaces": true,
-	"trim_trailing_white_space_on_save": true
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": "false"
 }
